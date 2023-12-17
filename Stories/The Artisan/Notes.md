@@ -1,0 +1,11 @@
+- There is no great antagonist... Does it need to be a character? How does one write a compelling narrative without a character-based antagonist?
+- Siel & Jaeson's paths need to cross before the end of the novel, and Siel can't know Jaeson is there.
+	- Jaeson can be sent on a mission into the jungle. Maybe there is a contraband cache that needs depositing, or collecting
+		- Collecting would be an epiphany-in-the-belly-of-the-beast moment
+		- Pros: Easier. Gives Siel a chance to practice her new knowledge without leaving her training area. Altercation could serve as a forced exodus for Altus, and separate Siel from him (if that's something I feel is needed)
+		- Cons: ??
+	- Siel could leave her training with Altus early and head back into the city. This causes trouble for her because she is not prepared to deal with *whatever the hell the climax is*. At the last moment, she gets some sort of epiphany from Altus.
+		- This could either be a cryptic lesson that she couldn't decipher before
+			- Maybe she leaves after he destroys all his works, and only in her final challenge does she realize that being unwilling to destroy and rebuild her work is holding her back from creating the true marvels that she is capable of
+		- or Altus ends his exile and finds her in the city to help wrap things up
+			- I think Altus appearing in the city outskirts would be better as a resolution moment than a core component of the story

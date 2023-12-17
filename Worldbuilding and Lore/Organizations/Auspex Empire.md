@@ -1,0 +1,17 @@
+The first great civilization in the AltarGene star system. Founded by %NAME_OF_AUSPEX_FOUNDER% who wrote the (Mantra/Litany/Cadence/Devotion/Psalmody), the Auspex' strict culture and meticulous reproduction rituals keeps the empire at great strength, even after their dissidents outnumber them 10 to 1.
+
+#### Method of Control:
+Monarchic. All members of the empire are wholly subject to the monarch, and the monarch sacrifices their personal identity to pursue the vision of the Auspex (consider the catholic church and their vast hierarchy of authority all serving the same ideology). Leadership is primarily passed to the first capable descendant at *retirement*, though challenges for power during the change of leadership is expected of those who believe they have mastered The Way to a greater capacity than the successor (though this mostly just serves to demonstrate the new heir's power and sovereignty).
+**Retirement**: when the monarch is no longer able to fulfill all of the duties necessary to protect the empire, they concede their position to one with the power to do so, and instead take on an honored advisory role to the new monarch.
+#### Communication Ability: 
+Well trained Auspex are able to pass and receive complex messages in full through any fully connected network of living organisms. This is often limited to person-to-person contact, but has extensive potential in large networks like forests or mycelium. Messengers may also be sent along with %NAVIGATOR%s if one is available.
+#### Transportation Ability:
+%NAVIGATOR%s are able to transport shipments from location to location without regard for space or time. This includes strike pods of soldiers, when necessary. The process is time consuming, but compared to sub-light speed travel, can be a considerable improvement.
+#### Economy:
+The economy of the Auspex Empire has dwindled significantly since The Revolt. Because all resources belong to the empire, trade with outside parties is only done when absolutely necessary. This also means that there is rarely an abundance of any resource, as the volume of production changes based on the current needs of the empire and its objectives.
+#### Significant Historical Changes: TODO
+- The majority of the revered leaders of the Auspex are female, and a majority of the great failures (tried something ambitious and were stopped) are male. This is reflected in their artwork.
+- One of the past monarchs of the empire saw their weak economy as an existential threat, and began implementing measures to over-produce and build trade alliances. He was forcefully removed in a coup on the grounds of diluting the vision and forsaking the cause of the Auspex.
+*Any long-standing civilizations will undergo noticeable changes in economy, politics, religion, and ultimately culture. Including indicators to these changes, like architectural remnants, statues, or derelict technologies that have been awkwardly built around can make your civilization much more believable.*
+#### Challenges posed by key magics/technologies: TODO
+*Any civilization full of people with a unique ability is going to have a significantly different way of handling certain things. What do people no longer have to do? What are people enabled to do that might cause trouble for the civilization at large? What accommodations have they made to keep things in order?*

@@ -1,0 +1,4 @@
+Jaeson is a young revolutionary. A true punk. He intuitively understands legend. He loves his stories, and likes to take advantage of things that happen to him to appear like the characters of old (much like Kvothe)
+Jaeson is a hypersensitive sensory type. He can see people by their energy. This sight is layered on top of his normal vision, and is only obstructed by other energies (he can see through non-living walls) 
+- *"How did you know he was there?" Jaeson cocked an eyebrow, "I saw him coming..." "But that's not possible, there was a wall in the way!" Jaeson chuckled, "Walls don't glow silly"*
+	- It would be an interesting plot point if this is why [[Jaeson's Mentor|Jaeson's "mentor"]] takes an interest in him, who finds it out while Jaeson is being interrogated in custody in the beginning of the book. This would make Jaeson an inactive witness, hardly able to get himself out of the situations he is commanded in to.
