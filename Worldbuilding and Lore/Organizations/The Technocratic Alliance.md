@@ -1,4 +1,4 @@
-#worldbuilding
+#worldbuilding  
 *Aka. Technos, or the Techs, the Technocratic Alliance is the prevailing civilization in the Altargene star system (at the time of The Artisan). It was founded after The Great Revolt, when the less adept magic users of the Auspex Empire tired of their subjugation and, aided by their technological advances, broke away from the strong arm of the Empire to pursue their own way of life.*
 
 #### Method of Control:
