@@ -1,16 +1,21 @@
-Aka. Technos, or the Techs, the Technocratic Alliance is the prevailing civilization in the AltarGene star system (at the time of [[Overview|The Artisan]]). It was founded after The Great Revolt, when the less adept magic users of the Auspex Empire tired of their subjugation and, aided by their technological advances, broke away from the strong arm of the Empire to pursue their own way of life.
+#worldbuilding
+*Aka. Technos, or the Techs, the Technocratic Alliance is the prevailing civilization in the Altargene star system (at the time of The Artisan). It was founded after The Great Revolt, when the less adept magic users of the Auspex Empire tired of their subjugation and, aided by their technological advances, broke away from the strong arm of the Empire to pursue their own way of life.*
 
 #### Method of Control:
-The Alliance 
-*Terror, making participation desirable, making the outside undesirable (propaganda), allowing self-governance ("nothing" changes), an appeal to sovereignty (rightful ruler), assimilation (unified culture)*
-#### Communication Ability: TODO
-Speed and Volume of communication is vital for effective coordination. Faster communication enables centralized power, slower communication necessitates decentralized power structures.
-#### Transportation Ability: TODO
-Similar to communication, the ability to transport physical materials enables a central power to maintain control by keeping colonies well fed and respond quickly with troops, but it also heavily influences the growth potential of its economy.
-#### Economy: TODO
-A healthy economy is an indicator of stability. Wider markets make participation in a civilization more appealing than closed off and smaller civilizations.
-*Successful empires often help protect property rights*
+The Alliance behaves *like* a republic, with many large-body hearings where lesser officials discuss and vote on issues as they see fit, a small council responsible for interpreting their vote, and making a final decision.  
+Power is proportional to the tax paid each year, and there is no upper limit on tax donation. Members who contribute the most are able to buy themselves a seat on the council, effectively making The Technocratic Alliance a corpocracy.  
+Large communities are more or less allowed to do as they please, as long as they pay their tax, and don't make a mess of things (follow fundamental laws). In exchange for cooperation, participants receive drastically less restricted trade, and the ability to take advantage of the extensive trade network established across %HOME_PLANET%. Members who pay a little extra are able to buy into special perks, like defensive armies, and advanced research pacts.
+#### Communication Ability:
+The Alliance has access to radio, and optic means of communication, enabling large amounts of data to be transferred in large quantities. Radio transmission isn't instant, optic transmission requires clear line-of-sight, and recipients (if still organic), require time to process and understand the information received, though the majority of this task is usually improved by computing processes.  
+While on-planet communication is very rapid, off-world communication requires special procedures in order to facilitate, and as a result, planetary governance is fairly centralized, but inter-planet governance is rather decentralized.
+#### Transportation Ability:
+Despite a lack of faster-than-light technologies, the Techs transportation network is highly efficient, thanks to their permissive trade policies and emphasis on capital gains. Off-world transportation is still relatively efficient, but with inter-planet transport fees, commodities being far less common, and the monetary foundation of the society, planets in need of certain resources tend to suffer heavy penalties.
+#### Economy:
+The total wealth of the Technocratic Alliance is staggering, but it is very poorly distributed. Since money is the buy-in for power and protection, large pools of resources are readily available to be used as needed, but this tends to circle back into the corporations that put it there in the first place. The majority of civilians are disenfranchised and forced to live in under-city slums, working questionable jobs, and cutting corners where possible. The only real solution to make it out of the underworld is to make risky mechanical modifications to your body in order to present as a more valuable employee, or to strong-arm your way into a leadership position*
+#### Most Enforced Laws:
+1. Trade routes are sacred in the Alliance, and any transgression against them is punishable by death. This doesn't mean piracy doesn't exist, but it is a *VERY* dangerous profession
+2. More an inverse law: Those who miss their tax for the year receive no protections of any kind. This is practically a death sentence for those who already lack the resources to make the deadline. The tax may be paid after the deadline to reinstate legal protections, but not without a steep additional fee
 #### Significant Historical Changes: TODO
-Any long-standing civilizations will undergo noticeable changes in economy, politics, religion, and ultimately culture. Including indicators to these changes, like architectural remnants, statues, or derelict technologies that have been awkwardly built around can make your civilization much more believable.
+*Any long-standing civilizations will undergo noticeable changes in economy, politics, religion, and ultimately culture. Including indicators to these changes, like architectural remnants, statues, or derelict technologies that have been awkwardly built around can make your civilization much more believable.*
 #### Challenges posed by key magics/technologies: TODO
-Any civilization full of people with a unique ability is going to have a significantly different way of handling certain things. What do people no longer have to do? What are people enabled to do that might cause trouble for the civilization at large? What accommodations have they made to keep things in order?
+*Any civilization full of people with a unique ability is going to have a significantly different way of handling certain things. What do people no longer have to do? What are people enabled to do that might cause trouble for the civilization at large? What accommodations have they made to keep things in order?*

@@ -7,6 +7,8 @@
 #### Economy: TODO
 *A healthy economy is an indicator of stability. Wider markets make participation in a civilization more appealing than closed off and smaller civilizations.
 Successful empires often help protect property rights*
+#### Most Enforced Laws: TODO
+*Legal enforcement is an indicator of priority in a civilization. It tells a story of the past, as well as how much power is in the hands of the people.*
 #### Significant Historical Changes: TODO
 *Any long-standing civilizations will undergo noticeable changes in economy, politics, religion, and ultimately culture. Including indicators to these changes, like architectural remnants, statues, or derelict technologies that have been awkwardly built around can make your civilization much more believable.*
 #### Challenges posed by key magics/technologies: TODO

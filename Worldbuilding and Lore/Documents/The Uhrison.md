@@ -1,3 +1,4 @@
+#worldbuilding #lore 
 A small collection of passages written by the spiritual founder of the Auspex %AUSPEX_FOUNDER%. It is the foundation of Auspex society, and serves as their guiding light in times of uncertainty.
 
 # The Litany
