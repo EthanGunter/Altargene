@@ -1,5 +1,6 @@
-# The Three Big Character Questions
+*Use this document to discover details about a character. You only need to answer questions with a subheading that defines your character. Not all questions will have clear answers, and not all need answers. This is just to help explore aspects of a character that you would not have otherwise considered*
 
+# The Three Big Character Questions
 1. What does your main character want more than anything in the world?
 2. What major flaws (internal problems) and obstacles (external problems) will stand in their way? What virtues (internal aid) and support (external aid) will help them?
 3. Will your character achieve what they want? Will they change significantly over the course of the story? Why or why not?
