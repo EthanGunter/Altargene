@@ -1,5 +1,5 @@
 #worldbuilding #lore 
-A small collection of passages written by the spiritual founder of the Auspex %AUSPEX_FOUNDER%. It is the foundation of Auspex society, and serves as their guiding light in times of uncertainty.
+A small collection of passages written by the spiritual founder of the Auspex, %AUSPEX_FOUNDER%. It is the foundation of Auspex society, and serves as their guiding light in times of uncertainty.
 
 # The Litany
 A ritual series of chants (similar to the 10 commandments) that every member of the Auspex Empire is expected to recite from memory by the time they reach age 10. It lists the fundamental beliefs of the Auspex Empire.
@@ -14,5 +14,5 @@ Initially meant as a brief blessing to disciples of The Way, the Benediction is 
 
 
 #### Read Me
-Rather than write the Uhrison in it's entirety, simple quotes and verses from the text will suffice. Feel free to add anything that seems on-brand with %AUSPEX_FOUNDER%, and the section you're adding it too.  
-There is also precedence for adding entirely new sections under the pretense that they are "long lost", or intentionally hidden by someone along the way.
+Rather than write the Uhrisan in it's entirety, simple quotes and verses from the text will suffice. Feel free to add anything that seems on-brand with %AUSPEX_FOUNDER%, and the section you're adding it too.  
+It is also acceptable to add entirely new sections under the pretense that they are "long lost", or intentionally hidden by someone along the way, but these sections will undergo far more scrutiny before accepted.
