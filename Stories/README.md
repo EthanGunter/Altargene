@@ -1,11 +1,16 @@
 # What is a *story*?
-Stories are expanded pieces of #lore that center around a *specific individual* and those close to them, and how their actions cause a change in the world around them.
+Stories are expanded pieces of #lore that center around a *specific individual* and those close to them, and detail how their actions cause a change in the world they live in.
 # Steps to create a new story:
-1. Is there an existing document in the *Worldbuilding and Lore* directory?
-	1. If not, please add your idea there first, for others' quick reference.
-2. Have you filled out (at least partially) a character questionnaire for the primary character?
-	1. Without this knowledge of the character, the story will fall flat.
-3. Does your story have a title (at least a working title)
-	1. Without a working title to name your directory, 
+1. Fill out (at least partially) a character questionnaire for the primary character
+	- Without this knowledge of the character, the story will fall flat.
+2. Give your story a descriptive title (at least a working title)
+	- Without a title, stories will get mixed up, lost, and cluttered.
+3. INSERT SOMETHING ABOUT OUTLINING PLOT AND STARTING THE WORLD BUILDING PROCESS
 
-If what you intend to put in this subdirectory does not satisfy the points above, it is not yet a story and does not belong here. That said, an idea does not need to be fully fleshed out to begin its existence. This is just a safeguard to prevent 
+# Progress Tips
+1. Create concrete names *as soon as possible*
+	- You can always find-and-replace, but leaving vague names and pronouns as place holders prevents a story from having any substance. You'd be surprised how fast a story comes together when "PROTAGONIST" becomes "Siel Kunstenaar, the artisan".
+
+# Documenting Events
+1. If you believe you have the major plot points worked out for your story, go ahead and add a document to the *Worldbuilding and Lore* Directory with the high-level details
+	- This allows others who are not intimately familiar with your story to safely build on the canon that you've added, without contradicting, or ignoring significant concepts that would affect their own additions.

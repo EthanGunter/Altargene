@@ -8,7 +8,7 @@
 	- It is not a perfect system, and the outer edges of the city still get considerable exposure to rains when the nearby storms are at their peak.
 ##### Neurotoxin:
 - An artificial neurotoxin that gets infused with the incoming moisture that passes through **The Shield Wall**. The Neurotoxin drives those exposed into a near catatonic state, slowly degrading their manual motor functions as they achieve saturation.
-	- Designed to keep people from wandering away from the city, the Neurotoxin makes the acidic jungle appear *far* more dangerous than it actually is. Some consider this to be [[Altus]]' greatest achievement; He considers it his greatest failure.
+	- Designed to keep people from wandering away from the city, the Neurotoxin makes the acidic jungle appear *far* more dangerous than it actually is. Some consider this to be [Altus](Characters/Altus)' greatest achievement; He considers it his greatest failure.
 ##### Junglebane Mushroom:
 - A natural remedy to the **%NEUROTOXIN%**. It only grows in the jungles of [[Cennet (or Cerretis)|Cerretis]], and is expressly illegal in the city under the pretense of being a dangerous hallucinogen.
 	- To reinforce this, the upper-city poisons shipments of these mushrooms and hires dirty hands to distribute them amongst the outer city. The gang that [[Jaeson Kunstenaar|Jaeson]] ends up joining is one such band of operatives.

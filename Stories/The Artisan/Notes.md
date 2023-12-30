@@ -9,3 +9,4 @@
 			- Maybe she leaves after he destroys all his works, and only in her final challenge does she realize that being unwilling to destroy and rebuild her work is holding her back from creating the true marvels that she is capable of
 		- or Altus ends his exile and finds her in the city to help wrap things up
 			- I think Altus appearing in the city outskirts would be better as a resolution moment than a core component of the story
+- The Kunstenaar shop cannot be attached to the house, otherwise Jaeson will have had exposure to Grandpa and Siel for most his life, and Siel's parenting crisis arc will have very little meaning/resolution
