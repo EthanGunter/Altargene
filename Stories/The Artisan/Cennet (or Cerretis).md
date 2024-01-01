@@ -1,4 +1,4 @@
-Cennet is Turkish-ish for Paradise.
+Cennet is Turkish for Paradise.
 Cennet is *not* a paradise.
 
 ## Geography

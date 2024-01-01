@@ -2,7 +2,7 @@
 - Siel & Jaeson's paths need to cross before the end of the novel, and Siel can't know Jaeson is there.
 	- Jaeson can be sent on a mission into the jungle. Maybe there is a contraband cache that needs depositing, or collecting
 		- Collecting would be an epiphany-in-the-belly-of-the-beast moment
-		- Pros: Easier. Gives Siel a chance to practice her new knowledge without leaving her training area. Altercation could serve as a forced exodus for Altus, and separate Siel from him (if that's something I feel is needed)
+		- Pros: Easier. Gives Siel a chance to practice her new knowledge without leaving her training area. Altercation could serve as a forced exodus for Altus, and separate Siel from him
 		- Cons: ??
 	- Siel could leave her training with Altus early and head back into the city. This causes trouble for her because she is not prepared to deal with *whatever the hell the climax is*. At the last moment, she gets some sort of epiphany from Altus.
 		- This could either be a cryptic lesson that she couldn't decipher before
@@ -10,3 +10,8 @@
 		- or Altus ends his exile and finds her in the city to help wrap things up
 			- I think Altus appearing in the city outskirts would be better as a resolution moment than a core component of the story
 - The Kunstenaar shop cannot be attached to the house, otherwise Jaeson will have had exposure to Grandpa and Siel for most his life, and Siel's parenting crisis arc will have very little meaning/resolution
+- Original concepts
+	- Siel gets injured by her first attempts at aestheturgy with the MATERIAL, which is why she comes into the care of Altus
+	- Altus teaches Siel the magic of the craft, the practice, and of *the life that leads to great works*. Siel goes on to become a legend of artistry.
+	- Touch on themes of *shiny-object syndrome* and dissatisfaction with mundanity and repetition. On the mystification and commercialization of specific \[monetizable\] paths to success. On the bent of society at large to prefer the pill over exercise.
+	- "You spend your whole life chasing something that you could be cultivating within yourself every day" (The product is not the goal. An honest process is)

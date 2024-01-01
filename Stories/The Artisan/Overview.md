@@ -1,9 +1,10 @@
-A young adult woman (Siel) needs to save her family's artifact shop from going under by acquiring a legendary macguffin from the jungles of Cerretis. She intends to use this macguffin to power the next generation of [[Setting#Technology|condensers]] to put their dying shop back on the map. During her quest, she stumbles across the wonderful works of a hermit high in the mountains, and the two reluctantly and unintentionally form a mentor-apprentice relationship where Siel learns how to harness the magic of [[Setting#Magic|Aestheturgy]] to create much more than tiny one-home condensers
+***Plot***: A young adult woman (Siel) needs to save her family's artifact shop from going under by acquiring a legendary macguffin from the jungles of Cennet. She intends to use this macguffin to power the next generation of [[Setting#Technology|condensers]] to put their dying shop back on the map. During her quest, she stumbles across the wonderful works of a hermit high in the mountains, and the two reluctantly and unintentionally form a mentor-apprentice relationship where Siel learns how to harness the magic of [[Setting#Magic|Aestheturgy]] to create much more than tiny one-home condensers
+***Purpose***: The Artisan is a novel that explores the concept of artistry as literal magic. Siel, and her younger brother, Jaeson, are conduits to explore the two sides of this coin; generation, and refinement.
+1) *Creative generation* requires a low-judgement, quick-witted intuitive approach. It is fast, flashy, and sways audiences, but often has little power to make great change. Jaeson expresses skill in this way of aesthemancy is a young boy who has strong convictions and often ends up in situations that he has to weasel his way out of.
+2) *Refinement* requires a deep, intentive, and methodical approach to steering a particular work towards its ultimate form. It takes a great deal of time, but specific movements can be trained through repetition. The products of this process have significant and long lasting affects on the world in which they are placed. Siel's serious and stable affect make her a perfect candidate for aestheturgy, but she must unlearn many limiting beliefs before she can truly unleash the power within.
 
-*The plot after she returns (book 2) can go in one of two directions:*
-1) She spent too long practicing and the shop has been closed, and she seeks justice, or
-2) she whips together a solution, saves her family, and goes on to develop solutions to turn the hellscape of [[Cennet (or Cerretis)#Major (known) Settlements|Dusthaven]] into a paradise, but along the way she encounters powers that would rather keep things the way they are
-
+*The plot after she returns (book 2):*
+1) she whips together a solution, saves her family, and goes on to develop solutions to turn the hellscape of [[Cennet (or Cerretis)#Major (known) Settlements|Dusthaven]] into a paradise, but along the way she encounters powers that would rather keep things the way they are
 # Characters
 - ## [[Siel Kunstenaar]]
 - ## Altus
