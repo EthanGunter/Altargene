@@ -1,13 +1,13 @@
 #worldbuilding   
-*The first great civilization in the AltarGene star system. Founded by %AUSPEX_FOUNDER% who wrote The Uhrison, the Auspex' strict adherence to its principles and meticulous reproduction rituals keeps the empire at great strength, even when their dissidents outnumber them 10 to 1.*
+*The first great civilization in the AltarGene star system. Founded by **%AUSPEX_FOUNDER%** who wrote The Uhrison, the Auspex' strict adherence to its principles and meticulous reproduction rituals keeps the empire at great strength, even when their dissidents outnumber them 10 to 1.*
 
 ### Method of Control:
 Monarchic. All members of the empire are wholly subject to the monarch, and the monarch sacrifices their personal identity to pursue the vision of the Auspex (consider the catholic church and their vast hierarchy of authority all serving the same ideology). Leadership is primarily passed to the first capable descendant at *retirement*, though challenges for power during the change of leadership is expected of those who believe they have mastered The Way to a greater capacity than the successor (though this mostly just serves to demonstrate the new heir's power and sovereignty).
 **Retirement**: when the monarch is no longer able to fulfill all of the duties necessary to protect the empire, they concede their position to one with the power to do so, and instead take on an honored advisory role to the new monarch.
 ### Communication Ability: 
-Well trained Auspex are able to pass and receive complex messages in full through any fully connected network of living organisms. This is often limited to person-to-person contact, but has extensive potential in large networks like forests or mycelium. Messengers may also be sent along with %NAVIGATOR%s if one is available.
+Well trained Auspex are able to pass and receive complex messages in full through any fully connected network of living organisms. This is often limited to person-to-person contact, but has extensive potential in large networks like forests or mycelium. Messengers may also be sent along with **%NAVIGATORS%** if one is available.
 ### Transportation Ability:
-%NAVIGATOR%s are able to transport shipments from location to location without regard for space or time. This includes strike pods of soldiers, when necessary. The process is time consuming, but compared to sub-light speed travel, can be a considerable improvement.
+**%NAVIGATORS%** are able to transport shipments from location to location without regard for space or time. This includes strike pods of soldiers, when necessary. The process is time consuming, but compared to sub-light speed travel, can be a considerable improvement.
 ### Economy:
 The economy of the Auspex Empire has dwindled significantly since The Revolt. Because all resources belong to the empire, trade with outside parties is only done when absolutely necessary. This also means that there is rarely an abundance of any resource, as the volume of production changes based on the current needs of the empire and its objectives.*
 ### Most Enforced Laws: TODO
