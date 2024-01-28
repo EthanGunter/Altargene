@@ -11,3 +11,7 @@ The primary currency in the universe is a digital currency
 5. A meg: 1,000 blocks (1,000,000 bits)
 6. A gig: 1,000 megs (1,000,000,000 bits)
 7. A terra: 1,000 gigs (1,000,000,000,000 bits)
+
+# Religion
+## NAME TBD
+The prevailing religion places an emphasis on technological relics scattered throughout the universe by an ancient species, and the placation of an artificial nano-swarm known as the Nexus.

@@ -1,6 +1,6 @@
 1. We meet the family and find out that their [[Setting#Condensers|water condenser]] shop is failing, and that Grandpa is growing increasingly disabled due to some unclear illness.
 2. While Siel is out shopping, she finds out that the stabilizers that Grandpa needs are becoming unaffordable, and there's a new off-world condenser company that is likely going to put theirs out of business.
-3. After stealing and dissecting one of the new condensers, Siel decides she only has one option left: venture into the deadly jungles to find the %LEGENDARY_MATERIAL% that will put their shop back on the map
+3. After stealing and dissecting one of the new condensers, Siel decides she only has one option left: venture into the deadly jungles to find the **%LEGENDARY_MATERIAL%** that will put their shop back on the map
 4. During dinner, Jaeson hears Siel explaining the situation, and her plan to go into the jungle. She puts him in charge of some *very* mundane things, but he isn't one to sit idly. Thinking Grandpa can take care of himself, Jaeson makes his own declaration to go into the city and find a way to help.
 5. Siel gathers the things she needs from a local dealer, gets a ride into the outer-city, hires some guides, and ventures into the jungle
 6. Siel's guides try to run their scam, but upon finding out that she has no more money, give up the façade and attempt to rob her instead. She unintentionally uses [[Setting#Aestheturgy|aestheturgy]] and escapes into the jungle by her lonesome

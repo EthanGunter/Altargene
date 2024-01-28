@@ -7,7 +7,7 @@
 - A defensive array of specialized water filters that line the outer rim of the city, preventing the toxic moisture from the jungles entering the city.
 	- It is not a perfect system, and the outer edges of the city still get considerable exposure to rains when the nearby storms are at their peak.
 ##### Neurotoxin:
-- An artificial neurotoxin that gets infused with the incoming moisture that passes through **The Shield Wall**. The Neurotoxin drives those exposed into a near catatonic state, slowly degrading their manual motor functions as they achieve saturation.
+- An unintended side effect of a chemical reaction that happens as the result of incoming moisture that passing through **The Shield Wall**. The Neurotoxin slowly drives those exposed into a catatonic state, degrading their manual motor functions as they achieve saturation.
 	- Designed to keep people from wandering away from the city, the Neurotoxin makes the acidic jungle appear *far* more dangerous than it actually is. Some consider this to be [Altus](Characters/Altus)' greatest achievement; He considers it his greatest failure.
 ##### Junglebane Mushroom:
 - A natural remedy to the neurotoxin found in the jungle rains. It only grows in the jungles of [[Cennet (or Cerretis)|Cerretis]], and is expressly illegal in the city under the pretense of being a dangerous hallucinogen.
@@ -15,7 +15,9 @@
 	- ?? I'm not completely sold on this plot point. It seems redundant to poison a population that's already systematically poisoned by the wall. It's also the *literal cure* for the poisoning happening by the wall. Double redundancy just seems overkill... Maybe there is a look-a-like mushroom that *is* poisonous?
 ##### Stabilizers:
 - A pharmaceutical extract of the [[#Junglebane Mushroom]] that is laughably cheap easy to produce. It is in fact legal to make, but only if you have the city's blessing, and outrageously expensive for the people that need it.
-
+##### Snakes:
+- Pocket-sized telescoping tasers often deployed by control forces. With a press of a button, two high-voltage metal prongs are propelled forward, stopping immediately once the prongs have a medium to close their circuits. After delivering a paralyzing dose of electricity, the telescoping body retracts itself back into it's easily manageable hand-held form 
+- names to create acronyms from: LANCE, SNAKE, STUMPER 
 ## Magic
 #### Aesthetic Magics
 - **Aesthete**: is derived from the Greek word “Aisthētikos”, meaning perception by the senses or sensitive to beauty. They are the creative process literally manifest as magic.
@@ -36,3 +38,7 @@
 	- "How does he do it?"
 - This form of magic is entirely based around the *generative* aspect of the creative process. It is a very fast-paced, situation based magic that relies on quick wit and powerful belief.
 - Real world counterparts: dancers, comedians, actors, public speakers
+#### Sight
+A very rare form of magic that is passed by bloodlines, and not very well understood. It manifests in different forms for different gifted beings, but the most common shared trait is the ability to see extended forms of energy
+- The observable energy is not a participant of the electro-magnetic spectrum, and as such can not be simulated by the most common forms of imaging technologies
+- This is mainly listed here to suggest some ancient Auspex artifacts may display information and have controls that can only be used by those with Sight, and the means to manipulate that energy
