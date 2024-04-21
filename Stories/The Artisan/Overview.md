@@ -7,7 +7,7 @@
 1) she whips together a solution, saves her family, and goes on to develop solutions to turn the hellscape of [[Cennet (or Cerretis)#Major (known) Settlements|Dusthaven]] into a paradise, but along the way she encounters powers that would rather keep things the way they are
 # Characters
 - ## [[Siel Kunstenaar]]
-- ## Altus
+- ## [[Altus]]
 	- A [[Archetypes - Characters|Sage]] character who lives in the highest altitudes of the jungles of [[Cennet (or Cerretis)]]. His age is unknown, though it's clear that he's lived a lot of life. His demeanor is akin to King Boomy from Avatar: the Last Airbender; bouncy and buoyant, loves jokes, sees through the eyes of a child. Altus doesn't take things too seriously, but is a powerhouse deep within, and when push comes to shove will make you wish you picked on someone else. 
 	- **Habitat**: Altus' dwelling space is filled with all sorts of wonderful mechanisms in equal parts beauty, practicality, and entertainment. Siel's discovery of it should mark a deep contrast to the soulless, purely-practical, and diminishing technologies of [[Cennet (or Cerretis)#Major (known) Settlements|Dusthaven]]
 		- Many of the items Altus has created serve as a means of protection from prying eyes: a thick mist that hides his dwelling, proximity alarms that disguise themselves as mythical creatures of the jungle, etc.
@@ -27,12 +27,13 @@
 - Siel's mentor is reluctant, weird, guarded, and has real power to give. Jaeson's mentor is eager to take Jaeson under his wing, inspiring, open, and seeks to take advantage of young minds like Jaeson's and discard them when their time runs up
 - Siel is trying to unlearn old habits while Jaeson is trying to learn how the world works
 - Every thing that Siel must unlearn is mirrored by Jaeson inappropriately acting on those traditional assumptions. Jaeson will do something terribly wrong based on assumptions and end up in a mess, followed by Siel learning how to overcome the beliefs that caused him to stumble.
+- Siel sees the world as a fucked up place, full of grey areas and necessary evils. The world in her chapters are written almost as a different place compared to Jaeson's, where he sees the world as a beautiful and exciting place, perfectly black and white, full of opportunity and evil for ambitious heroes to conquer
 ## The Lessons
 - Patience/Perseverance/Hard work: Great things can only be built with attention to the boring things, and commitment to the outcome, not the action.
 - Inherent "talents" don't exist, and they aren't your final limits. "I can't do that, I'm a water-worker. I make water condensers"
 	- Jaeson is very perceptive, and picks up new tricks quite easily. ?He becomes cocky, and believes he can fully lean on a technique he saw, but has never had the chance to practice?
-- Merely working hard does not always lead to success. And success is not the opposite of failure. Don't work hard to keep the first draft. Revel in the failure. Play in the mess you've made. Learn, explore, iterate, and capture the beauty that arises from it.
-	- Jaeson is heavily punished for failing, even when it's not his fault. Success is the only option in Mentor's eyes.
+- Merely working hard does not always lead to success. And success is not the opposite of failure. Don't work hard to keep the first draft. Revel in the mistakes. Play in the mess you've made. Learn, explore, iterate, and capture the beauty that arises from it.
+	- Jaeson is heavily punished for failing, even when it's not his fault. Success is the only option in Calus' eyes.
 - Trust your intuition. Trust your body's hard-earned instinct. Don't overthink things.
 	- Jaeson is quite good at this, and it's what gets him the job in the first place.
 - The attitude/perspective of others should not shape your own actions.
@@ -41,13 +42,13 @@
 - *You don't always need to be happy*. Some of the most human (read relatable) emotions aren't happy.
 - Loss isn't the end of the world. Sacrificing yourself to keep things the way they are might very well be. 
 	- Altus smashing all his artifacts and Siel thinking she's lost all the secret knowledge she sought, paralleled by Jaeson encountering Grandfather in a terribly critical state; perhaps unclear to the reader if he is actually still alive at all.
-	- *This should be a lessoned learned after the 3rd-law-rhythm is well established, as the shock of Grandfather's worsening condition will lead people to assume he is definitely going to die*
-- "If you have nothing nice to say, don’t say anything at all." Mostly expressed in Altus' willingness to call Siel's work terrible, and Jaeson's mentor's sweet tongue
+	- *This should be a lesson learned after the 3rd-law-rhythm is well established, as the shock of Grandfather's worsening condition will lead people to assume he is definitely going to die*
+- "If you have nothing nice to say, don’t say anything at all." Mostly expressed in Altus' willingness to call Siel's work terrible, and Calus' sweet tongue
 - Don't aim for perfection
-	- Jaeson makes a plan to impress his mentor, and spends a long time working out every detail. When things don't go his way, he doesn't know how to adapt, and the whole thing falls apart.
+	- Jaeson makes a plan to impress Calus, and spends a long time working out every detail. When things don't go his way, he doesn't know how to adapt, and the whole thing falls apart.
 - Words don't hurt - a lesson for Altus on his journey to reconnect with society? "There's a lot of power in a name"
 - Being alone is not lonely. "How do you think I learned all of this? I could never find myself with so many voices speaking nonsense in my ear. I find myself to be quite good company you know"
-	- Jaeson's Mentor is nothing on his own, and when Jaeson begins to talk with the other couriers, Mentor's power begins to slip
+	- Jaeson's Mentor is nothing on his own, and when Jaeson begins to talk with the other couriers, Calus' power begins to slip
 - Don't put others before yourself. You cannot serve others until you are full, and if you are full, you can't help but to spill into other's lives.
 - Don't think everyone has it all figured out.
 	- When Jaeson discovers the shortcoming of his mentor, his revolutionary spark is fanned, and he begins to realize that he, in his ignorant and unprepared state, has the same potential to cause change.

@@ -5,16 +5,17 @@
 ##### The Shield Wall: 
 - Altname: Atmos-Gate(s)
 - A defensive array of specialized water filters that line the outer rim of the city, preventing the toxic moisture from the jungles entering the city.
-	- It is not a perfect system, and the outer edges of the city still get considerable exposure to rains when the nearby storms are at their peak.
+	- It is not a perfect system, and the outer edges of the city still get considerable exposure to rains when the nearby storms are at their peak, but it protects the inner portions of the city from any natural exposure whatsoever.
+	- A side-effect of how the Shield Wall works is a massive accumulation of weather right at the point of contact (like the base of a mountain). This results in *very heavy* rains in the outermost parts of the city. In addition to the catastrophes inside the city, it has created rampant vegetation growth immediately between the jungle and the city.
 ##### Neurotoxin:
 - An unintended side effect of a chemical reaction that happens as the result of incoming moisture that passing through **The Shield Wall**. The Neurotoxin slowly drives those exposed into a catatonic state, degrading their manual motor functions as they achieve saturation.
-	- Designed to keep people from wandering away from the city, the Neurotoxin makes the acidic jungle appear *far* more dangerous than it actually is. Some consider this to be [Altus](Characters/Altus)' greatest achievement; He considers it his greatest failure.
+	- While not designed to be toxic, The Neurotoxin makes the acidic jungle appear *far* more dangerous than it actually is. The side effect turned out to be very effective at keeping people from wandering away from the city, and some less human-minded individuals pushed the project through to completion, despite Altus' concerns. The inner circle consider this to be [Altus](Characters/Altus)' greatest achievement; He considers it his greatest failure.
 ##### Junglebane Mushroom:
 - A natural remedy to the neurotoxin found in the jungle rains. It only grows in the jungles of [[Cennet (or Cerretis)|Cerretis]], and is expressly illegal in the city under the pretense of being a dangerous hallucinogen.
 	- To reinforce this, the upper-city poisons shipments of these mushrooms and hires dirty hands to distribute them amongst the outer city. The gang that [[Jaeson Kunstenaar|Jaeson]] ends up joining is one such band of operatives.
 	- ?? I'm not completely sold on this plot point. It seems redundant to poison a population that's already systematically poisoned by the wall. It's also the *literal cure* for the poisoning happening by the wall. Double redundancy just seems overkill... Maybe there is a look-a-like mushroom that *is* poisonous?
 ##### Stabilizers:
-- A pharmaceutical extract of the [[#Junglebane Mushroom]] that is laughably cheap easy to produce. It is in fact legal to make, but only if you have the city's blessing, and outrageously expensive for the people that need it.
+- A pharmaceutical extract of the [[#Junglebane Mushroom]] that is laughably cheap and easy to produce. It is in fact legal to make, but only if you have the city's blessing, and outrageously expensive for the people that need it.
 ##### Snakes:
 - Pocket-sized telescoping tasers often deployed by control forces. With a press of a button, two high-voltage metal prongs are propelled forward, stopping immediately once the prongs have a medium to close their circuits. After delivering a paralyzing dose of electricity, the telescoping body retracts itself back into it's easily manageable hand-held form 
 - names to create acronyms from: LANCE, SNAKE, STUMPER 
@@ -27,6 +28,7 @@
 	- "Just because it's magic, doesn't mean it isn't hard work!"
 	- Built on the philosophy that artwork is 10% inspiration/luck, 90% perspiration
 - This form of magic is entirely based around the *refinement* aspect of the creative process. It is a very introspective form of magic that relies on the user to dive into the depths of who they are as a power source.
+- The highest form of this magic would behave very similarly to the [fabricate spell](https://www.dndbeyond.com/spells/fabricate), except physical contact is still
 - Artifacts
 	- Artifacts (artworks) are the physical manifestation of this magic, and are used as a sort of foci to channel an aestheturgist' intention into the world.
 		- When an aestheturgist dies, their power goes into all of the artifacts that they've made, empowering them far beyond their original capacity (ancient relics hold unparalleled power over people)

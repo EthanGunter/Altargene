@@ -1,3 +1,4 @@
+- Grandpa is infected by the neurotoxin because he frequently visits the outer City to provide aid
 - There is no great antagonist... Does it need to be a character? How does one write a compelling narrative without a character-based antagonist?
 - Siel & Jaeson's paths need to cross before the end of the novel, and Siel can't know Jaeson is there.
 	- Jaeson can be sent on a mission into the jungle. Maybe there is a contraband cache that needs depositing, or collecting
@@ -9,7 +10,7 @@
 			- Maybe she leaves after he destroys all his works, and only in her final challenge does she realize that being unwilling to destroy and rebuild her work is holding her back from creating the true marvels that she is capable of
 		- or Altus ends his exile and finds her in the city to help wrap things up
 			- I think Altus appearing in the city outskirts would be better as a resolution moment than a core component of the story
-- The Kunstenaar shop cannot be attached to the house, otherwise Jaeson will have had exposure to Grandpa and Siel for most his life, and Siel's parenting crisis arc will have very little meaning/resolution
+- The Kunstenaar shop cannot be attached to the house, or at least Siel needs to have a reason to be away from the house most of the time, otherwise Jaeson will have had exposure to Grandpa and Siel for most his life, and Siel's parenting crisis arc will have very little meaning/resolution. Maybe he spends most of his time at school, and Siel continues to work during his time at home
 - Original concepts
 	- Siel gets injured by her first attempts at aestheturgy with the MATERIAL, which is why she comes into the care of Altus
 	- Altus teaches Siel the magic of the craft, the practice, and of *the life that leads to great works*. Siel goes on to become a legend of artistry.

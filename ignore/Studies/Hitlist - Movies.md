@@ -1,0 +1,105 @@
+
+- [ ] Openheimer
+- [ ] Barbie
+- [ ] Men in tights
+- [ ] blue streak
+- [ ] Chappelle's block party
+- [x] Not another Teen movie
+- [x] Nacho Libre
+- [ ] The Italian Job - #heist-plot 
+- [x] Tinker, Tailor, Soldier, Spy - #mystery #spy-thriller 
+	- Confusing. More like a day-in-the life of international infiltration than a story
+- [ ] Oceans Eleven - #heist-plot
+- [ ] Sneakers - #heist-plot 
+- [ ] The great train robbery - #heist-plot 
+- [ ] The Sting - #heist-plot 
+- [ ] The Birdcage - #con-plot
+- [ ] The Farewell - #con-plot 
+- [ ] Dune
+- [x] The original Dune
+	- 👎
+- [ ] Inception
+- [ ] Chronicles of Riddick
+- [ ] The road
+- [ ] Prodigal Son
+- [ ] Happy Death Day
+- [x] Tenet
+	- Phenomenal. One of the best films ever made
+- [ ] The Sixth Sense
+- [ ] Memento
+- [ ] Bloodshot
+- [ ] RRR
+- [ ] Men in Black
+- [ ] Ambala
+- [ ] Sorry to bother you
+- [ ] Dead pool 2
+- [ ] Idiocracy
+- [ ] Space station 76
+- [ ] Moon
+- [ ] The Land
+- [ ] Minority report
+- [ ] birdman
+- [ ] Gladiator
+- [ ] Kingsman 1&2
+- [ ] Gattica
+- [ ] iRobot
+- [ ] Bicentennial Man
+- [ ] Ex Machina
+- [ ] 21 Jump Street
+- [ ] Dead Poets’ Society
+- [ ] Ferris Bueller’s Day Off
+- [ ] Jurassic Park
+- [ ] Secret Agent Cody Banks
+- [ ] Mean Girls
+- [ ] Project X
+- [ ] Space Balls
+- [ ] Fight Club
+- [ ] Baby Driver
+- [ ] The Matrix
+- [ ] Bourne origin Movies
+- [ ] Marvel Origin Movies
+	- [ ] Capt. America
+	- [ ] Iron Man
+	- [ ] The Hulk
+- [ ] Treasure Planet
+- [ ] The Karate Kid
+- [ ] Indiana Jones
+- [ ] Monty python
+	- [x] The Holy Grail
+	- [ ] Life of Brian
+- [ ] Catch that kid
+- [ ] Matilda
+- [ ] Troy
+- [ ] Black dynamite
+- [ ] Into the Spiderverse
+- [ ] Venom
+- [ ] John Wick
+- [ ] All the bright places
+- [ ] Grandma's boy
+- [ ] Les Miserables
+- [ ] RRR
+- [ ] Baahubali
+- [ ] bicentennial man
+- [ ] ex machina
+- [ ] 21 Jump Street
+- [ ] Sunshine
+- [ ] Eternal sunshine of the spotless mind
+- [ ] The lakehouse
+- [ ] The Secret
+- [ ] Ghost in the shell (original movie)
+- [ ] Happy Death Day
+- [ ] The Sixth Sense
+- [ ] Bloodshot
+- [ ] Ambala
+- [ ] Space station 76
+- [ ] Moon
+- [ ] birdman
+- [ ] Project X
+- [ ] Bourne origin Movies
+- [ ] Troy
+- [ ] The revenant
+- [ ] The good the bad and the ugly
+- [ ] Monty Python & Life of Brian
+- [ ] Cinderella man
+- [ ] Sugarland express
+- [ ] the Poseidon Adventure

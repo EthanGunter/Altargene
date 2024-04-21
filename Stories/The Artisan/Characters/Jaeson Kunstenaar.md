@@ -57,3 +57,9 @@ Jaeson is a hypersensitive sensory type. He can see people by their energy. This
 - **Worst thing that has ever happened to this character**: Slowly watching the toll that the family's declining business has taken on Grandpa and Siel.
 - **Three words to describe this character**: Rebellious, Intuitive, Impulsive.
 - **If a song played every time this character walked into the room, what song would it be**? A hard-hitting punk anthem that calls people to change and defiance.
+
+## Scenes that demonstrate personality
+- Desire to see others excel
+	- Jaeson steals one of Siel's blueprints and tries to get someone to help bring it to fruition. It ends up in someone else's possession (somehow) and Siel doesn't find out until she sees her design in person
+- Eager to fill the boots of his heroes
+	- Caius tells Jaeson that he is a leader, despite having demonstrated no leadership qualities. Jaeson prematurely runs a mission (on his own) with his leader's chest puffed high, where he fails miserably. By the end of the book, he manages to learn the true nature of leadership, and redeems himself
