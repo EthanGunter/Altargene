@@ -1,5 +1,5 @@
 ### Origin
-![](<Technocratic Alliance#Before The Exodus>)
+![Alt Text](<./Technocratic Alliance.md#Before The Exodus>)
 
 ## Before The Exodus
 Hello World
