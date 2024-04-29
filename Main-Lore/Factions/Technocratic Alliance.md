@@ -1,5 +1,5 @@
 ### Origin
-![[Technocratic Alliance#Before The Exodus]]
+![](<Technocratic Alliance#Before The Exodus>)
 
 ## Before The Exodus
 Hello World
