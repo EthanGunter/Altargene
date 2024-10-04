@@ -1,0 +1,1 @@
+*This name needs fleshing out, but I like the idea of the star system that we live in being named after some great religious figure of Auspex lore*
