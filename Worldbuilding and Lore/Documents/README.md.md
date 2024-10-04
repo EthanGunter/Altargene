@@ -1,0 +1,3 @@
+# Documents Overview
+Rather than write documents in their entirety, simple quotes and verses from the text will suffice. Feel free to add anything that seems on-brand with the described author, and the section you're adding it too.  
+It is also acceptable to add entirely new sections under the pretense that they are "long lost", or intentionally hidden by someone along the way, but these sections will undergo far more scrutiny before accepted.
