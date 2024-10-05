@@ -1,6 +1,6 @@
 #worldbuilding #lore 
 # Author
-A small collection of passages written by the spiritual founder of the Auspex, [Sol](Sol.md). It is the foundation of Auspex society, and serves as their guiding light in times of uncertainty.
+A small collection of passages written by the spiritual founder of the Auspex, [Sol](../Characters/Sol.md). It is the foundation of Auspex society, and serves as their guiding light in times of uncertainty.
 
 ## The Litany
 A ritual series of chants (similar to the 10 commandments) that every member of the Auspex Empire is expected to recite from memory by the time they reach age 10. It lists the fundamental beliefs of the Auspex Empire.
